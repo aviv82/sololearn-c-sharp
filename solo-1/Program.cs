@@ -14,6 +14,11 @@ namespace Solo_1
         static void Main(string[] args)
         {
             Console.WriteLine("C# is cool");
+
+            int x = 3;
+            int y = 4;
+
+            Console.WriteLine("x={0}; y={1}", x,y);
         }
     }
 }
