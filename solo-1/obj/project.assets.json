@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Aviv/Desktop/solo-1/solo-1.csproj",
+      "projectUniqueName": "/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-1/solo-1.csproj",
       "projectName": "solo-1",
-      "projectPath": "/Users/Aviv/Desktop/solo-1/solo-1.csproj",
+      "projectPath": "/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-1/solo-1.csproj",
       "packagesPath": "/Users/Aviv/.nuget/packages/",
-      "outputPath": "/Users/Aviv/Desktop/solo-1/obj/",
+      "outputPath": "/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Aviv/.nuget/NuGet/NuGet.Config"
