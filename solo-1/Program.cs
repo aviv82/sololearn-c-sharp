@@ -72,6 +72,16 @@ namespace Solo_1
             Console.WriteLine("number c = {0}, number d = {1}", c, d);
 
 
+            //lesson 12.1
+
+            const double pi = 3.14;
+
+            double radius;
+            Console.WriteLine("what is the radius of your circle?");
+            radius = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("your circle's radius is {0}. the area of your circle is: {1}", radius, (pi * (radius * radius)));
+
         }
     }
 }
