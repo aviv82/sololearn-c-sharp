@@ -108,4 +108,23 @@ for (int p = 0; p < 200; p++)
 }
 
 
+//lesson 19.1
+
+Console.WriteLine("how many legs does your artropod have?");
+int legs = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("how many body parts does your artropod have?");
+int bodyParts = Convert.ToInt32(Console.ReadLine());
+
+if (legs >= 6 || bodyParts < 3)
+{
+    Console.WriteLine("arachnide");
+}
+else if (legs == 6 && bodyParts == 3)
+{
+    Console.WriteLine("insect");
+}
+else Console.WriteLine("alien");
+
+
 Console.ReadLine();
