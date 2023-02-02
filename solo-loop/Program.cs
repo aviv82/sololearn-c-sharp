@@ -73,5 +73,17 @@ for (int x = 1; x <= countUp; x++)
     Console.WriteLine(x);
 }
 
+//lesson 17.1
+
+int o = 0;
+    do
+    {
+        Console.WriteLine(o);
+        o++;
+        Console.WriteLine("oy!");
+    } while (o <= countUp);
+
+
+
 
 Console.ReadLine();
