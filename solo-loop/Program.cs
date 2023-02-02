@@ -52,6 +52,16 @@ switch (angles)
         break;
 }
 
+//lesson 15.1
+
+Console.WriteLine("how far do you want to count down?");
+int countDown = Convert.ToInt32(Console.ReadLine());
+
+while (countDown-- > 0)
+{
+    Console.WriteLine(countDown);
+}
+
 
 
 Console.ReadLine();
