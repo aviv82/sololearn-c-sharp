@@ -62,6 +62,16 @@ while (countDown-- > 0)
     Console.WriteLine(countDown);
 }
 
+//lesson 16.1
+
+Console.WriteLine("how far do you want to count up?");
+int countUp = Convert.ToInt32(Console.ReadLine());
+
+
+for (int x = 1; x <= countUp; x++)
+{
+    Console.WriteLine(x);
+}
 
 
 Console.ReadLine();
