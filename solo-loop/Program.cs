@@ -62,6 +62,7 @@ while (countDown-- > 0)
     Console.WriteLine(countDown);
 }
 
+
 //lesson 16.1
 
 Console.WriteLine("how far do you want to count up?");
@@ -72,6 +73,7 @@ for (int x = 1; x <= countUp; x++)
 {
     Console.WriteLine(x);
 }
+
 
 //lesson 17.1
 
@@ -84,6 +86,26 @@ int o = 0;
     } while (o <= countUp);
 
 
+//lesson 18.1
+
+for (int p = 0; p < 200; p++)
+{
+    if (p%2==0)
+    {
+        Console.WriteLine("duck!");
+    }
+
+    if (p % 4 == 0)
+    {
+        continue;
+    }
+
+    if (p % 98 == 0)
+    {
+        Console.WriteLine("goose!");
+        break;
+    }
+}
 
 
 Console.ReadLine();
