@@ -127,4 +127,17 @@ else if (legs == 6 && bodyParts == 3)
 else Console.WriteLine("alien");
 
 
+//lesson 20.1
+
+Console.WriteLine("guess my age");
+int age = Convert.ToInt32(Console.ReadLine());
+
+bool right = (age == 40) ? true : false;
+
+if (right) {
+    Console.WriteLine("ping pong");
+} else {
+    Console.WriteLine("nope");
+}
+
 Console.ReadLine();
