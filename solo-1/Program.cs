@@ -52,13 +52,25 @@ namespace Solo_1
 
             Console.WriteLine("number four is?");
             int four = Convert.ToInt32(Console.ReadLine()); 
-
+             
             Console.WriteLine("number five is?");
             int five = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("your numbers are: {0}, {1}, {2}, {3} & {4}.", one, two, three, four, five);
             Console.WriteLine("some randome arithmatics:");
             Console.WriteLine((one-two * (three/four))%5);
+
+            //lesson 10.1
+
+            int a = 2;
+            int b = 4;
+
+            int c = a--;
+            int d = ++b;
+
+            Console.WriteLine("number a = {0}, number b = {1}",  a,b);
+            Console.WriteLine("number c = {0}, number d = {1}", c, d);
+
 
         }
     }
