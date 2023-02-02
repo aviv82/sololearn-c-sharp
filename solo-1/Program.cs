@@ -39,6 +39,27 @@ namespace Solo_1
 
             Console.WriteLine("hi there, {0}! you are {1} years old.", name, age);
 
+            //lesson 9.1
+
+            Console.WriteLine("number one is?");
+            int one = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("number two is?");
+            int two = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("number three is?");
+            int three = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("number four is?");
+            int four = Convert.ToInt32(Console.ReadLine()); 
+
+            Console.WriteLine("number five is?");
+            int five = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("your numbers are: {0}, {1}, {2}, {3} & {4}.", one, two, three, four, five);
+            Console.WriteLine("some randome arithmatics:");
+            Console.WriteLine((one-two * (three/four))%5);
+
         }
     }
 }
