@@ -1,9 +1,10 @@
-﻿<Properties StartupConfiguration="{13E9508F-7249-434E-8351-849AAA0E31C7}|Default">
+﻿<Properties StartupConfiguration="{9B95322C-BE57-4A95-A6B1-17E02C2EB778}|Default">
   <MonoDevelop.Ide.ItemProperties.solo-1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.solo-loop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="../solo-loop/Program.cs">
     <Files>
