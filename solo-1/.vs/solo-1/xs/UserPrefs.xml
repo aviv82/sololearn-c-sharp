@@ -1,5 +1,26 @@
-﻿<Properties StartupConfiguration="{3B5FDAD5-C5A4-4804-A479-3EAC785530FA}|Default">
-  <MonoDevelop.Ide.ItemProperties.solo-loop FirstBuild="True" />
+﻿<Properties StartupConfiguration="{13E9508F-7249-434E-8351-849AAA0E31C7}|Default">
   <MonoDevelop.Ide.ItemProperties.solo-1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.solo-loop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-loop/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="64" Column="1" />
+      <File FileName="../solo-loop/Program.cs" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="solo-1" expanded="True">
+            <Node name="solo-1" expanded="True" />
+            <Node name="solo-loop" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
