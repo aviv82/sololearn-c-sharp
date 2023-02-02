@@ -1,0 +1,15 @@
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/bin/Debug/net7.0/solo-method
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/bin/Debug/net7.0/solo-method.deps.json
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/bin/Debug/net7.0/solo-method.runtimeconfig.json
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/bin/Debug/net7.0/solo-method.dll
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/bin/Debug/net7.0/solo-method.pdb
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.csproj.AssemblyReference.cache
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.AssemblyInfoInputs.cache
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.AssemblyInfo.cs
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.csproj.CoreCompileInputs.cache
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.dll
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/refint/solo-method.dll
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.pdb
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/solo-method.genruntimeconfig.cache
+/Users/Aviv/Desktop/Code/dotnet/sololearn-c-sharp/solo-method/obj/Debug/net7.0/ref/solo-method.dll
