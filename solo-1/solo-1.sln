@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solo-loop", "..\solo-loop\s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solo-method", "..\solo-method\solo-method.csproj", "{9B95322C-BE57-4A95-A6B1-17E02C2EB778}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solo-class-and-object", "..\solo-class-and-object\solo-class-and-object.csproj", "{FC7FF2CA-0C26-45AF-B3D4-38F7461A7C29}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9B95322C-BE57-4A95-A6B1-17E02C2EB778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B95322C-BE57-4A95-A6B1-17E02C2EB778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B95322C-BE57-4A95-A6B1-17E02C2EB778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7FF2CA-0C26-45AF-B3D4-38F7461A7C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7FF2CA-0C26-45AF-B3D4-38F7461A7C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7FF2CA-0C26-45AF-B3D4-38F7461A7C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7FF2CA-0C26-45AF-B3D4-38F7461A7C29}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,13 +1,11 @@
-﻿<Properties StartupConfiguration="{9B95322C-BE57-4A95-A6B1-17E02C2EB778}|Default">
-  <MonoDevelop.Ide.ItemProperties.solo-1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+﻿<Properties StartupConfiguration="{FC7FF2CA-0C26-45AF-B3D4-38F7461A7C29}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.solo-loop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.solo-class-and-object PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.Workbench ActiveDocument="../solo-method/Program.cs">
     <Files>
       <File FileName="../solo-method/Program.cs" Line="11" Column="2" />
@@ -24,4 +22,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.solo-1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
