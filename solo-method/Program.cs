@@ -92,7 +92,7 @@ Console.WriteLine("new values a: {0} and b: {1}", a, b);
 
 // lesson 29.1
 
-//this actually doesn't work.. :/
+//this unfortunately doesn't work.. :/
 
 /*
 static void Print(int a)
@@ -114,3 +114,21 @@ Print(5);
 Print(5.5);
 Print("five point five");
 */
+
+
+// lesson 30.1
+
+Console.WriteLine("what is the number we want to factor?");
+int factor = Convert.ToInt32(Console.ReadLine());
+
+static int Fact(int factor)
+{
+    if (factor == 1)
+    {
+        return 1;
+    }
+    return factor * Fact(factor - 1);
+}
+
+Console.WriteLine("the factor of your number("+ factor +") is; " + Fact(factor));
+
