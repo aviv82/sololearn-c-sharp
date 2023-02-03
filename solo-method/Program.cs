@@ -48,3 +48,25 @@ int width = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine("your rectangle's area is {0}", rectArea(width, length)); 
 
+
+//lesson 27.1
+
+static int expo(int num, int pow=2)
+{
+    int exponent = num;
+
+    for (int x = 1; x < pow; x++)
+    {
+        exponent = exponent * num;
+    }
+    return exponent;
+}
+
+Console.WriteLine("what is the number we want to exponent?");
+int number = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("how many times will the number be multiplied by itself");
+int iteration = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("your number; {0}, multiplied by power of {1} is equal {2}", number, iteration, expo(num: number, pow: iteration));
+
