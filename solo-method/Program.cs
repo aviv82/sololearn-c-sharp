@@ -3,9 +3,9 @@
 
 //lesson 24.1
 
-myFunc();
+MyFunc();
 
-static void myFunc()
+static void MyFunc()
 {
     Console.WriteLine("This method prints a short message and returns no values");
 }
@@ -13,7 +13,7 @@ static void myFunc()
 
 //lesson 25.1
 
-static void paraMethod(int x)
+static void ParaMethod(int x)
 {
     if (x < 50)
     {
@@ -30,12 +30,12 @@ static void paraMethod(int x)
     Console.WriteLine("give me a number between 0 and a 100");
     int yourNumber = Convert.ToInt32(Console.ReadLine());
 
-paraMethod(yourNumber);
+ParaMethod(yourNumber);
 
 
 //lesson 26.1
 
-static int rectArea(int a, int b)
+static int RectArea(int a, int b)
 {
     return a * b * 2;
 }
@@ -46,12 +46,12 @@ int length = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("what is the width of your rectangle");
 int width = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("your rectangle's area is {0}", rectArea(width, length)); 
+Console.WriteLine("your rectangle's area is {0}", RectArea(width, length)); 
 
 
 //lesson 27.1
 
-static int expo(int num, int pow=2)
+static int Expo(int num, int pow=2)
 {
     int exponent = num;
 
@@ -68,5 +68,23 @@ int number = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("how many times will the number be multiplied by itself");
 int iteration = Convert.ToInt32(Console.ReadLine());
 
-Console.WriteLine("your number; {0}, multiplied by power of {1} is equal {2}", number, iteration, expo(num: number, pow: iteration));
+Console.WriteLine("your number; {0}, multiplied by power of {1} is equal {2}", number, iteration, Expo(num: number, pow: iteration));
 
+
+//lesson 28.1
+
+static void Define( ref int ordinal, out int lottery)
+{
+    Random rnd = new Random();
+    ordinal = ordinal + 1;
+    lottery = rnd.Next(0, 100);
+}
+
+int a;
+int b = 2;
+
+Console.WriteLine("original values a: undefined and b: {0}", b);
+
+Define(ref b, out a);
+
+Console.WriteLine("new values a: {0} and b: {1}", a, b);
