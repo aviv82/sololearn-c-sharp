@@ -88,3 +88,29 @@ Console.WriteLine("original values a: undefined and b: {0}", b);
 Define(ref b, out a);
 
 Console.WriteLine("new values a: {0} and b: {1}", a, b);
+
+
+// lesson 29.1
+
+//this actually doesn't work.. :/
+
+/*
+static void Print(int a)
+{
+    Console.WriteLine(a);
+}
+
+static void Print(double a)
+{
+    Console.WriteLine(a);
+}
+
+static void Print(string a)
+{
+    Console.WriteLine(a);
+}
+
+Print(5);
+Print(5.5);
+Print("five point five");
+*/
