@@ -31,3 +31,20 @@ static void paraMethod(int x)
     int yourNumber = Convert.ToInt32(Console.ReadLine());
 
 paraMethod(yourNumber);
+
+
+//lesson 26.1
+
+static int rectArea(int a, int b)
+{
+    return a * b * 2;
+}
+
+Console.WriteLine("what is the length of your rectangle");
+int length = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("what is the width of your rectangle");
+int width = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("your rectangle's area is {0}", rectArea(width, length)); 
+
