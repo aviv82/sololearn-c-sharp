@@ -3,22 +3,22 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.solo-loop PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-loop/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-method/Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="64" Column="1" />
-      <File FileName="../solo-loop/Program.cs" Line="4" Column="1" />
+      <File FileName="../solo-method/Program.cs" Line="11" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="solo-1" expanded="True">
             <Node name="solo-1" expanded="True" />
-            <Node name="solo-loop" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="solo-loop" expanded="True" />
+            <Node name="solo-method" expanded="True" />
           </Node>
         </State>
       </Pad>
