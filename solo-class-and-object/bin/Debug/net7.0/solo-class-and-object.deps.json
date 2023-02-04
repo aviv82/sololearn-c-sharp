@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "solo-class-and-object/1.0.0": {
+        "runtime": {
+          "solo-class-and-object.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "solo-class-and-object/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

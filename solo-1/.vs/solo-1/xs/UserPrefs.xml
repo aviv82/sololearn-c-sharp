@@ -5,16 +5,20 @@
   <MonoDevelop.Ide.ItemProperties.solo-loop PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.solo-class-and-object PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-method/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-class-and-object/Program.cs">
     <Files>
-      <File FileName="../solo-method/Program.cs" Line="11" Column="2" />
+      <File FileName="../solo-method/Program.cs" Line="127" Column="6" />
+      <File FileName="../solo-class-and-object/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="solo-1" expanded="True">
             <Node name="solo-1" expanded="True" />
+            <Node name="solo-class-and-object" expanded="True" />
             <Node name="solo-loop" expanded="True" />
             <Node name="solo-method" expanded="True" />
           </Node>
