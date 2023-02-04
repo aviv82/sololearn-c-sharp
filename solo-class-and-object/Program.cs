@@ -33,10 +33,14 @@ black.SetMatchWord("hush hush");
 Console.WriteLine("the matchword is: {0}", black.GetMatchWord());
 
 
+// lesson 38.1
+
+Robot deathRay = new Robot("kill");
+
 // classes
 
-// lesson 36.1 class
 
+// lesson 36.1 class
 
 class Bread
 {
@@ -53,7 +57,6 @@ class Bread
 
 // lesson 37.1 class
 
-
 class Spy
 {
     private string matchWord;
@@ -68,4 +71,19 @@ class Spy
         return matchWord;
     }
 }
+
+
+//lesson 38.1 class
+
+class Robot
+{
+    private string objective;
+
+    public Robot(string o)
+    {
+        objective = o;
+        Console.WriteLine(o);
+    }
+}
+
 
