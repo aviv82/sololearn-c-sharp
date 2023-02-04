@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-// lesson 37.1
+// see classes below
+
+// lesson 36.1
 
 
 Bread bagguette = new Bread();
@@ -21,6 +23,21 @@ brioche.weight = 300;
 
 brioche.Print();
 
+
+//lesson 37.1
+
+
+Spy black = new Spy();
+
+black.SetMatchWord("hush hush");
+Console.WriteLine("the matchword is: {0}", black.GetMatchWord());
+
+
+// classes
+
+// lesson 36.1 class
+
+
 class Bread
 {
     public string dough;
@@ -33,4 +50,22 @@ class Bread
     }
 }
 
+
+// lesson 37.1 class
+
+
+class Spy
+{
+    private string matchWord;
+
+    public void SetMatchWord(string s)
+    {
+        matchWord = s;
+    }
+
+    public string GetMatchWord()
+    {
+        return matchWord;
+    }
+}
 
