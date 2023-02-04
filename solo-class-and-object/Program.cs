@@ -37,6 +37,19 @@ Console.WriteLine("the matchword is: {0}", black.GetMatchWord());
 
 Robot deathRay = new Robot("kill");
 
+
+// lesson 39.1
+
+
+Pass dummy = new Pass();
+
+dummy.Password = "1234";
+dummy.Email = "dumm@y.com";
+dummy.Print();
+
+
+
+
 // classes
 
 
@@ -85,5 +98,30 @@ class Robot
         Console.WriteLine(o);
     }
 }
+
+
+// lesson 39.1 class
+
+class Pass
+{
+    private string email;
+    public string Password {get; set;}
+    public string Email {
+        set
+        {
+            if (value.Length>6)
+            
+                email = value;
+            
+        } get { return email; }
+    }
+    
+    public void Print()
+    {
+        Console.WriteLine("the password for email account {0} is; {1}", Email, Password);
+    }
+    
+} 
+
 
 
