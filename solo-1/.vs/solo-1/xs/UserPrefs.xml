@@ -3,16 +3,18 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.solo-1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-class-and-object/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../solo-array-and-string/Program.cs">
     <Files>
-      <File FileName="../solo-method/Program.cs" Line="127" Column="6" />
-      <File FileName="../solo-class-and-object/Program.cs" Line="1" Column="1" />
+      <File FileName="../solo-method/Program.cs" />
+      <File FileName="../solo-class-and-object/Program.cs" Line="56" Column="21" />
+      <File FileName="../solo-array-and-string/Program.cs" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="solo-1" expanded="True">
             <Node name="solo-1" expanded="True" />
+            <Node name="solo-array-and-string" expanded="True" />
             <Node name="solo-class-and-object" expanded="True" />
             <Node name="solo-loop" expanded="True" />
             <Node name="solo-method" expanded="True" />
@@ -22,8 +24,10 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.solo-method PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.solo-array-and-string FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.solo-array-and-string PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.solo-class-and-object PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
